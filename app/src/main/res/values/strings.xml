@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavigationApplication</string>
+    <string name="firstfragment">FirstFragment</string>
+    <string name="secondfragment">SecondFragment</string>
+    <string name="thirdfragment">ThirdFragment</string>
+</resources>
