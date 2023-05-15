@@ -3,4 +3,15 @@
     <string name="firstfragment">FirstFragment</string>
     <string name="secondfragment">SecondFragment</string>
     <string name="thirdfragment">ThirdFragment</string>
+    <string name="first">First</string>
+    <string name="third">Third</string>
+    <string name="second">Second</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color">Color</string>
+    <string name="photos">Photos</string>
+    <string name="text">Text</string>
+    <string name="red">Red</string>
+    <string name="white">White</string>
+    <string name="cat">Cat</string>
+    <string name="manul">Manul</string>
 </resources>
