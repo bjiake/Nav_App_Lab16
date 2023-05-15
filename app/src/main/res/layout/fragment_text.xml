@@ -8,6 +8,15 @@
 
     <TextView
         tools:text="@tools:sample/lorem/random"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in viverra felis. Pellentesque tempor velit ut mi euismod laoreet. Donec sit amet augue in nunc gravida dapibus eu eget eros. Donec at ligula diam. Vivamus lobortis tempor dignissim. Pellentesque ac placerat felis, et dictum ligula. Nulla rhoncus malesuada placerat. Aliquam fermentum sem vitae arcu facilisis venenatis. In ultrices consequat ex, eget egestas eros convallis a. Quisque finibus eu mi eget mollis.
+
+Morbi et elit quis augue egestas venenatis. Nulla eu ligula sit amet magna pellentesque egestas non vel leo. Nullam tempor congue lacus ut euismod. Sed viverra nulla quam, nec interdum est fringilla eget. Etiam mollis justo bibendum odio fringilla tristique. Aenean id mauris vitae dui ultricies sodales. Integer at arcu eget erat egestas pharetra. Proin massa lacus, vulputate tempor erat vel, vestibulum suscipit mi.
+
+Quisque quis neque sed est volutpat malesuada vitae eget felis. Ut pretium condimentum porttitor. Sed bibendum urna magna, ac iaculis nulla blandit nec. Aliquam efficitur sollicitudin tellus, sit amet porta risus volutpat nec. Mauris nulla diam, accumsan ut porttitor eget, porttitor in magna. Donec auctor quis nibh et aliquam. Proin sed massa eget leo congue vestibulum id ut lacus. Mauris iaculis sagittis libero malesuada mollis. Praesent blandit, tellus eu iaculis maximus, sapien massa tempus tortor, in auctor enim neque non quam. Vestibulum hendrerit mi in sem dapibus egestas non a risus.
+
+Aliquam fermentum vestibulum mauris, at dignissim neque. Mauris eu sapien porta, vehicula elit sed, eleifend tellus. Proin nec dignissim nibh. Nullam porta tellus vel elit ultricies, eget posuere orci rhoncus. Fusce consectetur urna non massa molestie luctus. Suspendisse potenti. Pellentesque porta fermentum sapien eget semper. Proin at nunc dignissim, tincidunt urna et, varius arcu. Proin faucibus gravida sem. Suspendisse elementum, libero eget egestas vestibulum, lacus nibh aliquam erat, sed faucibus nibh libero eget purus. In ultrices dolor quis pretium fermentum. Pellentesque eros est, vehicula sit amet aliquet vitae, vestibulum id nisl. Curabitur eu ligula facilisis, ultricies ante ac, posuere libero. Pellentesque eu ligula quis risus hendrerit gravida. Ut neque dolor, viverra eget vehicula a, feugiat id est. Maecenas tempor enim in quam porta viverra.
+
+Praesent consequat tortor elit, at facilisis mi aliquam at. Ut malesuada nibh elit. Mauris in ultricies justo. Suspendisse at aliquet lorem, in dignissim velit. Cras euismod lorem porta nunc hendrerit, non tincidunt massa volutpat. Suspendisse ac ultrices eros, at consectetur est. Aenean pretium dignissim metus, id viverra metus faucibus ac. Praesent lobortis tincidunt ligula molestie ornare. Fusce consectetur maximus orci, vel tempus urna condimentum eget. Morbi suscipit sem in euismod bibendum. Fusce suscipit eros dui, ultrices ullamcorper eros auctor vel."
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="16dp"
